@@ -1,4 +1,4 @@
-# 结果展示：
+# 结果展示（Kmeans）：
 
 ![avatar](https://github.com/lyk19940625/VisualizationOfMachineLearning/blob/master/result1.jpg)
 ![avatar](https://github.com/lyk19940625/VisualizationOfMachineLearning/blob/master/result2.jpg)
