@@ -1,9 +1,9 @@
-#结果展示：
+# 结果展示：
 
 ![avatar](https://github.com/lyk19940625/VisualizationOfMachineLearning/blob/master/result1.jpg)
 ![avatar](https://github.com/lyk19940625/VisualizationOfMachineLearning/blob/master/result2.jpg)
 
-#python机器学习之 K-邻近算法
+# python机器学习之 K-邻近算法
 
 @简单的理解：[ 采用测量不同特征值之间的距离方法进行分类 ]
 
